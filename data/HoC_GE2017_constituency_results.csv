@@ -1,0 +1,651 @@
+constituency_name,region_name,country_name,constituency_type,electorate,valid_votes,invalid_votes,con,lab,ld,ukip,green,snp,pc,dup,sf,sdlp,uup,alliance,other
+Aberavon,Wales,Wales,County,49892,33268,57,5901,22662,599,1345,0,0,2761,0,0,0,0,0,0
+Aberconwy,Wales,Wales,County,45251,32150,78,14337,13702,941,0,0,0,3170,0,0,0,0,0,0
+Aberdeen North,Scotland,Scotland,Borough,62130,36757,55,8341,11031,1693,0,0,15170,0,0,0,0,0,0,522
+Aberdeen South,Scotland,Scotland,Borough,64964,44493,63,18746,9143,2610,0,0,13994,0,0,0,0,0,0,0
+Airdrie and Shotts,Scotland,Scotland,County,64146,38002,47,8813,14096,802,0,0,14291,0,0,0,0,0,0,0
+Aldershot,South East,England,Borough,76205,48950,102,26950,15477,3637,1796,1090,0,0,0,0,0,0,0,0
+Aldridge-Brownhills,West Midlands,England,Borough,60363,40235,87,26317,12010,1343,0,0,0,0,0,0,0,0,0,565
+Altrincham and Sale West,North West,England,Borough,73226,52790,132,26933,20507,4051,0,1000,0,0,0,0,0,0,0,299
+Alyn and Deeside,Wales,Wales,County,63013,44760,84,18080,23315,1077,1117,0,0,1171,0,0,0,0,0,0
+Amber Valley,East Midlands,England,County,68065,45811,99,25905,17605,1100,0,650,0,0,0,0,0,0,0,551
+Angus,Scotland,Scotland,County,63840,40192,65,18148,5233,1308,0,0,15503,0,0,0,0,0,0,0
+Arfon,Wales,Wales,County,41367,28208,67,4614,11427,648,0,0,0,11519,0,0,0,0,0,0
+Argyll and Bute,Scotland,Scotland,County,67230,48069,69,15976,6044,8745,0,0,17304,0,0,0,0,0,0,0
+Arundel and South Downs,South East,England,County,79478,60256,154,37573,13690,4783,1668,2542,0,0,0,0,0,0,0,0
+Ashfield,East Midlands,England,County,78076,49993,62,20844,21285,969,1885,398,0,0,0,0,0,0,0,4612
+Ashford,South East,England,County,87387,59879,135,35318,17840,3101,2218,1402,0,0,0,0,0,0,0,0
+Ashton-Under-Lyne,North West,England,Borough,67674,39773,81,12710,24005,646,1878,534,0,0,0,0,0,0,0,0
+Aylesbury,South East,England,County,82546,58783,122,32313,17657,5660,1296,1237,0,0,0,0,0,0,0,620
+"Ayr, Carrick and Cumnock",Scotland,Scotland,County,71241,46222,74,18550,11024,872,0,0,15776,0,0,0,0,0,0,0
+Banbury,South East,England,County,83824,61562,115,33388,20989,3452,1581,1225,0,0,0,0,0,0,0,927
+Banff and Buchan,Scotland,Scotland,County,67601,41643,46,19976,3936,1448,0,0,16283,0,0,0,0,0,0,0
+Barking,London,England,Borough,77022,47679,103,10711,32319,599,3031,724,0,0,0,0,0,0,0,295
+Barnsley Central,Yorkshire and The Humber,England,Borough,64204,39087,66,9436,24982,549,3339,570,0,0,0,0,0,0,0,211
+Barnsley East,Yorkshire and The Humber,England,County,69214,40776,91,10997,24280,750,3247,0,0,0,0,0,0,0,0,1502
+Barrow and Furness,North West,England,County,69474,47590,60,22383,22592,1278,962,375,0,0,0,0,0,0,0,0
+Basildon and Billericay,East,England,Borough,69149,44918,121,27381,13981,1548,2008,0,0,0,0,0,0,0,0,0
+Basingstoke,South East,England,Borough,81875,55960,138,29510,20044,3406,1681,1106,0,0,0,0,0,0,0,213
+Bassetlaw,East Midlands,England,County,78540,52250,127,22615,27467,1154,0,0,0,0,0,0,0,0,0,1014
+Bath,South West,England,Borough,66778,49583,112,17742,7279,23436,0,1126,0,0,0,0,0,0,0,0
+Batley and Spen,Yorkshire and The Humber,England,Borough,80161,53780,128,20883,29844,1224,0,695,0,0,0,0,0,0,0,1134
+Battersea,London,England,Borough,77574,55058,112,22876,25292,4401,357,866,0,0,0,0,0,0,0,1266
+Beaconsfield,South East,England,County,77524,56028,109,36559,12016,4448,1609,1396,0,0,0,0,0,0,0,0
+Beckenham,London,England,Borough,67925,51630,182,30632,15545,4073,0,1380,0,0,0,0,0,0,0,0
+Bedford,East,England,Borough,71829,48480,176,21923,22712,2837,0,1008,0,0,0,0,0,0,0,0
+Belfast East,Northern Ireland,Northern Ireland,Borough,63495,42890,93,446,0,0,0,561,0,0,23917,894,167,1408,15443,54
+Belfast North,Northern Ireland,Northern Ireland,Borough,68249,45936,158,0,0,0,0,644,0,0,21240,19159,2058,0,2475,360
+Belfast South,Northern Ireland,Northern Ireland,Borough,66105,43705,130,246,0,0,0,2241,0,0,13299,7143,11303,1527,7946,0
+Belfast West,Northern Ireland,Northern Ireland,Borough,62423,40633,190,0,0,0,0,0,0,0,5455,27107,2860,0,731,4480
+Bermondsey and Old Southwark,London,England,Borough,87282,58521,148,7581,31161,18189,838,639,0,0,0,0,0,0,0,113
+"Berwickshire, Roxburgh and Selkirk",Scotland,Scotland,County,73191,52367,96,28213,4519,2482,0,0,17153,0,0,0,0,0,0,0
+Berwick-Upon-Tweed,North East,England,County,58807,42212,79,22145,10364,8916,0,787,0,0,0,0,0,0,0,0
+Bethnal Green and Bow,London,England,Borough,86075,59825,275,7576,42969,2982,894,1516,0,0,0,0,0,0,0,3888
+Beverley and Holderness,Yorkshire and The Humber,England,County,80657,55638,184,32499,18457,2808,0,716,0,0,0,0,0,0,0,1158
+Bexhill and Battle,South East,England,County,81331,59472,102,36854,14689,4485,2006,1438,0,0,0,0,0,0,0,0
+Bexleyheath and Crayford,London,England,Borough,65315,45189,92,25113,16040,1201,1944,601,0,0,0,0,0,0,0,290
+Birkenhead,North West,England,Borough,64484,43663,108,8044,33558,1118,0,943,0,0,0,0,0,0,0,0
+"Birmingham, Edgbaston",West Midlands,England,Borough,68091,43612,108,17207,24124,1564,0,562,0,0,0,0,0,0,0,155
+"Birmingham, Erdington",West Midlands,England,Borough,65067,37217,112,14286,21571,750,0,610,0,0,0,0,0,0,0,0
+"Birmingham, Hall Green",West Midlands,England,Borough,78271,54310,187,8199,42143,3137,0,831,0,0,0,0,0,0,0,0
+"Birmingham, Hodge Hill",West Midlands,England,Borough,75698,46394,159,6580,37606,805,1016,387,0,0,0,0,0,0,0,0
+"Birmingham, Ladywood",West Midlands,England,Borough,70023,41307,155,5452,34166,1156,0,533,0,0,0,0,0,0,0,0
+"Birmingham, Northfield",West Midlands,England,Borough,72322,44348,151,18929,23596,959,0,864,0,0,0,0,0,0,0,0
+"Birmingham, Perry Barr",West Midlands,England,Borough,70106,44197,164,11726,30109,1080,0,591,0,0,0,0,0,0,0,691
+"Birmingham, Selly Oak",West Midlands,England,Borough,74370,48985,138,15629,30836,1644,0,876,0,0,0,0,0,0,0,0
+"Birmingham, Yardley",West Midlands,England,Borough,72581,44502,103,8824,25398,7984,1916,280,0,0,0,0,0,0,0,100
+Bishop Auckland,North East,England,County,67661,43281,78,20306,20808,1176,0,0,0,0,0,0,0,0,0,991
+Blackburn,North West,England,Borough,70664,47515,187,12780,33148,709,0,0,0,0,0,0,0,0,0,878
+Blackley and Broughton,North West,England,Borough,71648,40113,101,8657,28258,737,1825,462,0,0,0,0,0,0,0,174
+Blackpool North and Cleveleys,North West,England,Borough,63967,41007,59,20255,18232,747,1392,381,0,0,0,0,0,0,0,0
+Blackpool South,North West,England,Borough,58470,34953,44,15058,17581,634,1339,341,0,0,0,0,0,0,0,0
+Blaenau Gwent,Wales,Wales,County,51227,32384,35,4783,18787,295,973,0,0,6880,0,0,0,0,0,666
+Blaydon,North East,England,Borough,68459,48084,64,13502,26979,4366,2459,583,0,0,0,0,0,0,0,195
+Blyth Valley,North East,England,Borough,63415,42490,70,15855,23770,1947,0,918,0,0,0,0,0,0,0,0
+Bognor Regis and Littlehampton,South East,England,County,75827,51352,98,30276,12782,3352,1861,993,0,0,0,0,0,0,0,2088
+Bolsover,East Midlands,England,County,73429,46519,107,18865,24153,1372,2129,0,0,0,0,0,0,0,0,0
+Bolton North East,North West,England,Borough,67233,45183,90,19073,22870,1316,1567,357,0,0,0,0,0,0,0,0
+Bolton South East,North West,England,Borough,68886,42323,97,12550,25676,781,2779,537,0,0,0,0,0,0,0,0
+Bolton West,North West,England,County,72797,51054,81,24459,23523,1485,1587,0,0,0,0,0,0,0,0,0
+Bootle,North West,England,Borough,72872,50288,163,6059,42259,837,0,709,0,0,0,0,0,0,0,424
+Boston and Skegness,East Midlands,England,County,68402,42879,92,27271,10699,771,3308,547,0,0,0,0,0,0,0,283
+Bosworth,East Midlands,England,County,81661,56168,133,31864,13513,9744,0,1047,0,0,0,0,0,0,0,0
+Bournemouth East,South West,England,Borough,74591,48618,115,25221,17284,3168,1405,1236,0,0,0,0,0,0,0,304
+Bournemouth West,South West,England,Borough,73195,44507,147,23812,16101,2929,0,1247,0,0,0,0,0,0,0,418
+Bracknell,South East,England,County,79199,55892,146,32882,16866,4186,1521,0,0,0,0,0,0,0,0,437
+Bradford East,Yorkshire and The Humber,England,Borough,70389,45622,78,9291,29831,843,1372,289,0,0,0,0,0,0,0,3996
+Bradford South,Yorkshire and The Humber,England,Borough,67752,41049,62,15664,22364,516,1758,370,0,0,0,0,0,0,0,377
+Bradford West,Yorkshire and The Humber,England,Borough,67568,45528,221,7542,29444,712,885,481,0,0,0,0,0,0,0,6464
+Braintree,East,England,County,75316,52326,74,32873,14451,2251,1835,916,0,0,0,0,0,0,0,0
+Brecon and Radnorshire,Wales,Wales,County,56010,41334,63,20081,7335,12043,576,0,0,1299,0,0,0,0,0,0
+Brent Central,London,England,Borough,80499,52296,199,10211,38208,2519,556,802,0,0,0,0,0,0,0,0
+Brentford and Isleworth,London,England,Borough,85164,61629,156,23182,35364,3083,0,0,0,0,0,0,0,0,0,0
+Brent North,London,England,Borough,82567,56444,203,18435,35496,1614,0,660,0,0,0,0,0,0,0,239
+Brentwood and Ongar,East,England,County,75067,52910,107,34811,10809,4426,1845,915,0,0,0,0,0,0,0,104
+Bridgend,Wales,Wales,County,62185,43255,55,17213,21913,919,781,0,0,1783,0,0,0,0,0,646
+Bridgwater and West Somerset,South West,England,County,89294,58267,131,32111,16663,6332,2102,1059,0,0,0,0,0,0,0,0
+Brigg and Goole,Yorkshire and The Humber,England,County,66069,45057,60,27219,14856,836,1596,550,0,0,0,0,0,0,0,0
+"Brighton, Kemptown",South East,England,Borough,67893,49207,154,18835,28703,1457,0,0,0,0,0,0,0,0,0,212
+"Brighton, Pavilion",South East,England,Borough,75486,57687,154,11082,15450,0,630,30149,0,0,0,0,0,0,0,376
+Bristol East,South West,England,Borough,72415,50799,133,17453,30847,1389,0,1110,0,0,0,0,0,0,0,0
+Bristol North West,South West,England,Borough,75434,54096,132,22639,27400,2814,0,1243,0,0,0,0,0,0,0,0
+Bristol South,South West,England,Borough,83012,54382,112,16679,32666,1821,1672,1428,0,0,0,0,0,0,0,116
+Bristol West,South West,England,Borough,93003,71608,174,9877,47213,5201,0,9216,0,0,0,0,0,0,0,101
+Broadland,East,England,County,77334,55971,104,32406,16590,4449,1594,932,0,0,0,0,0,0,0,0
+Bromley and Chislehurst,London,England,Borough,65117,46662,119,25175,15585,3369,1383,1150,0,0,0,0,0,0,0,0
+Bromsgrove,West Midlands,England,County,73571,54040,206,33493,16920,2488,0,1139,0,0,0,0,0,0,0,0
+Broxbourne,East,England,Borough,73502,47485,102,29515,13723,1481,1918,848,0,0,0,0,0,0,0,0
+Broxtowe,East Midlands,England,County,74013,55508,120,25983,25120,2247,1477,681,0,0,0,0,0,0,0,0
+Buckingham,South East,England,County,79615,52679,1967,0,0,0,4168,8574,0,0,0,0,0,0,0,39937
+Burnley,North West,England,Borough,64709,40290,63,12479,18832,6046,2472,461,0,0,0,0,0,0,0,0
+Burton,West Midlands,England,County,73954,49911,143,28936,18889,1262,0,824,0,0,0,0,0,0,0,0
+Bury North,North West,England,Borough,67580,47903,156,21308,25683,912,0,0,0,0,0,0,0,0,0,0
+Bury South,North West,England,Borough,73715,50990,123,21200,27165,1065,1316,0,0,0,0,0,0,0,0,244
+Bury St Edmunds,East,England,County,86071,62160,152,36794,18353,3565,0,2596,0,0,0,0,0,0,0,852
+Caerphilly,Wales,Wales,County,64381,41297,83,10413,22491,725,1259,447,0,5962,0,0,0,0,0,0
+"Caithness, Sutherland and Easter Ross",Scotland,Scotland,County,46868,30901,35,6990,3833,11061,0,0,9017,0,0,0,0,0,0,0
+Calder Valley,Yorkshire and The Humber,England,County,79045,58054,115,26790,26181,1952,1466,631,0,0,0,0,0,0,0,1034
+Camberwell and Peckham,London,England,Borough,85613,57412,236,7349,44665,3413,0,1627,0,0,0,0,0,0,0,358
+Camborne and Redruth,South West,England,County,68419,48456,93,23001,21424,2979,0,1052,0,0,0,0,0,0,0,0
+Cambridge,East,England,Borough,78544,55934,135,9133,29032,16371,0,1265,0,0,0,0,0,0,0,133
+Cannock Chase,West Midlands,England,County,74540,47872,78,26318,17927,794,2018,815,0,0,0,0,0,0,0,0
+Canterbury,South East,England,County,78182,56800,178,25385,25572,4561,0,1282,0,0,0,0,0,0,0,0
+Cardiff Central,Wales,Wales,Borough,59288,40367,80,7997,25193,5415,343,420,0,999,0,0,0,0,0,0
+Cardiff North,Wales,Wales,Borough,67221,52022,98,21907,26081,1714,582,0,0,1738,0,0,0,0,0,0
+Cardiff South and Penarth,Wales,Wales,Borough,76499,50736,107,15318,30182,1430,942,532,0,2162,0,0,0,0,0,170
+Cardiff West,Wales,Wales,Borough,66775,46629,89,13874,26425,1214,698,0,0,4418,0,0,0,0,0,0
+Carlisle,North West,England,County,62294,43056,88,21472,18873,1256,1455,0,0,0,0,0,0,0,0,0
+Carmarthen East and Dinefwr,Wales,Wales,County,55976,41029,45,10778,12219,920,985,0,0,16127,0,0,0,0,0,0
+Carmarthen West and South Pembrokeshire,Wales,Wales,County,58565,42226,65,19771,16661,956,905,0,0,3933,0,0,0,0,0,0
+Carshalton and Wallington,London,England,Borough,70849,50753,97,19450,9360,20819,0,501,0,0,0,0,0,0,0,623
+Castle Point,East,England,Borough,69470,44710,87,30076,11204,1049,2381,0,0,0,0,0,0,0,0,0
+Central Ayrshire,Scotland,Scotland,County,68999,45087,75,15504,11762,1050,0,0,16771,0,0,0,0,0,0,0
+Central Devon,South West,England,County,74370,57844,84,31278,15598,6770,1326,1531,0,0,0,0,0,0,0,1341
+Central Suffolk and North Ipswich,East,England,County,78116,56524,113,33992,16807,2431,1635,1659,0,0,0,0,0,0,0,0
+Ceredigion,Wales,Wales,County,54262,39767,52,7307,8017,11519,602,542,0,11623,0,0,0,0,0,157
+Charnwood,East Midlands,England,County,78071,55176,115,33318,16977,2052,1471,1036,0,0,0,0,0,0,0,322
+Chatham and Aylesford,South East,England,County,70419,44890,73,25587,15129,1116,2225,573,0,0,0,0,0,0,0,260
+Cheadle,North West,England,Borough,73406,54572,117,24331,10417,19824,0,0,0,0,0,0,0,0,0,0
+Chelmsford,East,England,Borough,81032,56860,103,30525,16953,6916,1645,821,0,0,0,0,0,0,0,0
+Chelsea and Fulham,London,England,Borough,63728,42128,126,22179,13991,4627,524,807,0,0,0,0,0,0,0,0
+Cheltenham,South West,England,Borough,78878,57012,107,26615,5408,24046,0,943,0,0,0,0,0,0,0,0
+Chesham and Amersham,South East,England,County,71654,55252,136,33514,11374,7179,1525,1660,0,0,0,0,0,0,0,0
+Chesterfield,East Midlands,England,Borough,72069,47927,74,16661,26266,2612,1611,777,0,0,0,0,0,0,0,0
+Chichester,South East,England,County,84991,59918,129,36032,13411,6749,1650,1992,0,0,0,0,0,0,0,84
+Chingford and Woodford Green,London,England,County,65958,46961,170,23076,20638,2043,0,1204,0,0,0,0,0,0,0,0
+Chippenham,South West,England,County,76432,57140,210,31267,11236,14637,0,0,0,0,0,0,0,0,0,0
+Chipping Barnet,London,England,Borough,77218,55423,204,25679,25326,3012,0,1406,0,0,0,0,0,0,0,0
+Chorley,North West,England,County,76404,55634,134,23233,30745,1126,0,530,0,0,0,0,0,0,0,0
+Christchurch,South West,England,County,70309,50634,161,35230,10059,4020,0,1325,0,0,0,0,0,0,0,0
+Cities Of London and Westminster,London,England,Borough,61533,38654,133,18005,14857,4270,426,821,0,0,0,0,0,0,0,275
+City Of Chester,North West,England,County,72859,56421,144,22847,32023,1551,0,0,0,0,0,0,0,0,0,0
+City Of Durham,North East,England,County,71132,48324,86,14408,26772,4787,1116,797,0,0,0,0,0,0,0,444
+Clacton,East,England,County,69263,44145,73,27031,11203,887,3357,719,0,0,0,0,0,0,0,948
+Cleethorpes,Yorkshire and The Humber,England,County,72711,47844,79,27321,16921,1110,2022,470,0,0,0,0,0,0,0,0
+Clwyd South,Wales,Wales,County,53729,37474,56,14646,19002,731,802,0,0,2293,0,0,0,0,0,0
+Clwyd West,Wales,Wales,County,58263,40654,79,19541,16104,1091,0,0,0,3918,0,0,0,0,0,0
+"Coatbridge, Chryston and Bellshill",Scotland,Scotland,Borough,71198,45040,79,7318,19193,922,0,0,17607,0,0,0,0,0,0,0
+Colchester,East,England,Borough,79996,53545,112,24565,18888,9087,0,828,0,0,0,0,0,0,0,177
+Colne Valley,Yorkshire and The Humber,England,County,84387,60420,158,27903,28818,2494,0,892,0,0,0,0,0,0,0,313
+Congleton,North West,England,County,76694,56231,98,31830,19211,2902,1289,999,0,0,0,0,0,0,0,0
+Copeland,North West,England,County,61751,42927,85,21062,19367,1404,1094,0,0,0,0,0,0,0,0,0
+Corby,East Midlands,England,County,83020,59997,94,29534,26844,1545,1495,579,0,0,0,0,0,0,0,0
+Coventry North East,West Midlands,England,Borough,75759,46508,128,13919,29499,1157,1350,502,0,0,0,0,0,0,0,81
+Coventry North West,West Midlands,England,Borough,75196,49849,88,18314,26894,1286,1525,666,0,0,0,0,0,0,0,1164
+Coventry South,West Midlands,England,Borough,70736,47009,114,17927,25874,1343,1037,604,0,0,0,0,0,0,0,224
+Crawley,South East,England,Borough,73425,50273,181,25426,22969,1878,0,0,0,0,0,0,0,0,0,0
+Crewe and Nantwich,North West,England,County,78895,55027,101,25880,25928,1334,1885,0,0,0,0,0,0,0,0,0
+Croydon Central,London,England,Borough,80045,57091,109,24221,29873,1083,1040,626,0,0,0,0,0,0,0,248
+Croydon North,London,England,Borough,87461,59623,131,11848,44213,1656,753,983,0,0,0,0,0,0,0,170
+Croydon South,London,England,Borough,83518,61257,123,33334,21928,3541,1116,1125,0,0,0,0,0,0,0,213
+"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,Scotland,County,66554,43833,50,8010,14858,1238,605,0,19122,0,0,0,0,0,0,0
+Cynon Valley,Wales,Wales,County,51334,31802,71,6166,19404,585,1271,0,0,4376,0,0,0,0,0,0
+Dagenham and Rainham,London,England,Borough,70616,45843,73,18306,22958,465,3246,544,0,0,0,0,0,0,0,324
+Darlington,North East,England,Borough,66341,44817,79,19401,22681,1031,1180,524,0,0,0,0,0,0,0,0
+Dartford,South East,England,County,78506,54224,117,31210,18024,1428,2544,807,0,0,0,0,0,0,0,211
+Daventry,East Midlands,England,County,75268,55663,102,35464,13730,4015,1497,957,0,0,0,0,0,0,0,0
+Delyn,Wales,Wales,County,54090,39418,69,16333,20573,1031,0,0,0,1481,0,0,0,0,0,0
+Denton and Reddish,North West,England,Borough,65751,39599,72,11084,25161,853,1798,486,0,0,0,0,0,0,0,217
+Derby North,East Midlands,England,Borough,69919,48672,109,21607,23622,2262,1181,0,0,0,0,0,0,0,0,0
+Derbyshire Dales,East Midlands,England,County,64430,49571,151,29744,15417,3126,0,1002,0,0,0,0,0,0,0,282
+Derby South,East Midlands,England,Borough,69918,45306,105,15182,26430,1229,2011,454,0,0,0,0,0,0,0,0
+Devizes,South West,England,County,72184,50593,107,31744,10608,4706,1706,1606,0,0,0,0,0,0,0,223
+Dewsbury,Yorkshire and The Humber,England,County,81343,56545,155,25493,28814,1214,0,1024,0,0,0,0,0,0,0,0
+Doncaster Central,Yorkshire and The Humber,England,Borough,71718,43024,122,14784,24915,973,0,0,0,0,0,0,0,0,0,2352
+Doncaster North,Yorkshire and The Humber,England,County,72377,42312,76,11687,25711,706,2738,0,0,0,0,0,0,0,0,1470
+Don Valley,Yorkshire and The Humber,England,County,73990,45988,95,19182,24351,856,0,0,0,0,0,0,0,0,0,1599
+Dover,South East,England,County,74564,51966,76,27211,20774,1336,1722,923,0,0,0,0,0,0,0,0
+Dudley North,West Midlands,England,Borough,62043,38910,72,18068,18090,368,2144,240,0,0,0,0,0,0,0,0
+Dudley South,West Midlands,England,Borough,61323,38244,51,21588,13858,625,1791,382,0,0,0,0,0,0,0,0
+Dulwich and West Norwood,London,England,Borough,78037,56143,162,10940,39096,4475,0,1408,0,0,0,0,0,0,0,224
+Dumfries and Galloway,Scotland,Scotland,County,74206,51599,45,22344,10775,1241,0,0,16701,0,0,0,0,0,0,538
+"Dumfriesshire, Clydesdale and Tweeddale",Scotland,Scotland,County,67672,48964,60,24177,8102,1949,0,0,14736,0,0,0,0,0,0,0
+Dundee East,Scotland,Scotland,Borough,65854,42928,57,11746,11176,1615,0,0,18391,0,0,0,0,0,0,0
+Dundee West,Scotland,Scotland,Borough,62644,38677,99,6257,12783,1189,0,0,18045,0,0,0,0,0,0,403
+Dunfermline and West Fife,Scotland,Scotland,County,75672,51010,73,12593,17277,3019,0,0,18121,0,0,0,0,0,0,0
+Dwyfor Meirionnydd,Wales,Wales,County,44699,30348,67,8837,6273,937,614,0,0,13687,0,0,0,0,0,0
+Ealing Central and Acton,London,England,Borough,74200,55342,191,19230,33037,3075,0,0,0,0,0,0,0,0,0,0
+Ealing North,London,England,Borough,74764,52516,152,14942,34635,1275,921,743,0,0,0,0,0,0,0,0
+"Ealing, Southall",London,England,Borough,65188,45145,173,9630,31720,1892,504,1037,0,0,0,0,0,0,0,362
+Easington,North East,England,County,62385,36364,57,8260,23152,460,1727,410,0,0,0,0,0,0,0,2355
+East Antrim,Northern Ireland,Northern Ireland,County,62908,38143,126,963,0,0,0,0,0,0,21873,3555,1278,4524,5950,0
+Eastbourne,South East,England,Borough,78754,57420,91,25315,4671,26924,0,510,0,0,0,0,0,0,0,0
+East Devon,South West,England,County,82369,60382,61,29306,6857,1468,1203,0,0,0,0,0,0,0,0,21548
+East Dunbartonshire,Scotland,Scotland,County,66300,51801,68,7563,7531,21023,0,0,15684,0,0,0,0,0,0,0
+East Ham,London,England,Borough,83928,56633,179,7241,47124,656,697,474,0,0,0,0,0,0,0,441
+East Hampshire,South East,England,County,74151,55408,159,35263,9411,8403,0,1760,0,0,0,0,0,0,0,571
+"East Kilbride, Strathaven and Lesmahagow",Scotland,Scotland,County,80442,54102,81,13704,17157,1590,628,0,21023,0,0,0,0,0,0,0
+Eastleigh,South East,England,Borough,81212,57280,136,28889,11454,14710,1477,750,0,0,0,0,0,0,0,0
+East Londonderry,Northern Ireland,Northern Ireland,County,67038,41030,124,330,0,0,0,0,0,0,19723,10881,4423,3135,2538,0
+East Lothian,Scotland,Scotland,County,79093,55878,57,16540,20158,1738,0,0,17075,0,0,0,0,0,0,367
+East Renfrewshire,Scotland,Scotland,County,70067,53738,67,21496,14346,1112,0,0,16784,0,0,0,0,0,0,0
+East Surrey,South East,England,County,82004,59203,121,35310,11396,6197,2227,1100,0,0,0,0,0,0,0,2973
+East Worthing and Shoreham,South East,England,County,75525,53117,70,25988,20882,2523,1444,1273,0,0,0,0,0,0,0,1007
+East Yorkshire,Yorkshire and The Humber,England,County,81065,53956,97,31442,16436,2134,1986,943,0,0,0,0,0,0,0,1015
+Eddisbury,North West,England,County,70272,51319,85,29192,17250,2804,1109,785,0,0,0,0,0,0,0,179
+Edinburgh East,Scotland,Scotland,Borough,65896,43523,100,8081,15084,1849,0,0,18509,0,0,0,0,0,0,0
+Edinburgh North and Leith,Scotland,Scotland,Borough,79473,56552,72,15385,17618,2579,0,1727,19243,0,0,0,0,0,0,0
+Edinburgh South,Scotland,Scotland,Borough,64553,47840,73,9428,26269,1388,0,0,10755,0,0,0,0,0,0,0
+Edinburgh South West,Scotland,Scotland,Borough,71178,49390,74,16478,13213,2124,0,0,17575,0,0,0,0,0,0,0
+Edinburgh West,Scotland,Scotland,Borough,71500,52795,71,11559,7876,18108,0,0,15120,0,0,0,0,0,0,132
+Edmonton,London,England,Borough,65777,43678,113,10106,31221,858,860,633,0,0,0,0,0,0,0,0
+Ellesmere Port and Neston,North West,England,County,68666,50939,69,18747,30137,892,821,342,0,0,0,0,0,0,0,0
+Elmet and Rothwell,Yorkshire and The Humber,England,County,80291,59542,134,32352,22547,2606,0,995,0,0,0,0,0,0,0,1042
+Eltham,London,England,Borough,64474,46155,150,18832,25128,1457,0,0,0,0,0,0,0,0,0,738
+Enfield North,London,England,Borough,68076,48565,125,17930,28177,1036,848,574,0,0,0,0,0,0,0,0
+"Enfield, Southgate",London,England,Borough,65210,48328,158,20634,24989,1925,0,780,0,0,0,0,0,0,0,0
+Epping Forest,East,England,County,74737,50779,130,31462,13219,2884,1871,1233,0,0,0,0,0,0,0,110
+Epsom and Ewell,South East,England,Borough,80029,59266,202,35313,14838,7401,0,1714,0,0,0,0,0,0,0,0
+Erewash,East Midlands,England,County,72995,49781,86,25939,21405,1243,0,675,0,0,0,0,0,0,0,519
+Erith and Thamesmead,London,England,Borough,69724,44464,79,15571,25585,750,1728,507,0,0,0,0,0,0,0,323
+Esher and Walton,South East,England,Borough,80938,59842,52,35071,11773,10374,1034,1074,0,0,0,0,0,0,0,516
+Exeter,South West,England,Borough,77330,55423,131,18219,34336,1562,0,1027,0,0,0,0,0,0,0,279
+Falkirk,Scotland,Scotland,County,82240,53809,58,14088,16029,1120,712,908,20952,0,0,0,0,0,0,0
+Fareham,South East,England,County,78837,57014,124,35915,14360,3896,1541,1302,0,0,0,0,0,0,0,0
+Faversham and Mid Kent,South East,England,County,72205,49749,77,30390,12977,3249,1702,1431,0,0,0,0,0,0,0,0
+Feltham and Heston,London,England,Borough,81714,53027,111,16859,32462,1387,1510,809,0,0,0,0,0,0,0,0
+Fermanagh and South Tyrone,Northern Ireland,Northern Ireland,County,70601,53481,226,0,0,0,0,423,0,0,0,25230,2587,24355,886,0
+Filton and Bradley Stoke,South West,England,County,72483,50702,164,25339,21149,3052,0,1162,0,0,0,0,0,0,0,0
+Finchley and Golders Green,London,England,Borough,73329,52385,159,24599,22942,3463,462,919,0,0,0,0,0,0,0,0
+Folkestone and Hythe,South East,England,County,86272,58875,97,32197,16786,4222,2565,2498,0,0,0,0,0,0,0,607
+Forest Of Dean,South West,England,County,70898,51767,81,28096,18594,2029,1237,1241,0,0,0,0,0,0,0,570
+Foyle,Northern Ireland,Northern Ireland,County,70324,45965,177,0,0,0,0,0,0,0,7398,18256,18087,0,847,1377
+Fylde,North West,England,County,65937,46467,127,27334,15529,2341,0,1263,0,0,0,0,0,0,0,0
+Gainsborough,East Midlands,England,County,75893,51425,150,31790,14767,3630,0,1238,0,0,0,0,0,0,0,0
+Garston and Halewood,North West,England,Borough,75248,53522,143,9450,41599,1723,0,750,0,0,0,0,0,0,0,0
+Gateshead,North East,England,Borough,65186,42103,71,10076,27426,1709,2281,611,0,0,0,0,0,0,0,0
+Gedling,East Midlands,England,County,71223,51682,83,22139,26833,1052,1143,515,0,0,0,0,0,0,0,0
+Gillingham and Rainham,South East,England,Borough,72903,48868,90,27091,17661,1372,2097,520,0,0,0,0,0,0,0,127
+Glasgow Central,Scotland,Scotland,Borough,64346,35984,114,5014,13829,1045,0,0,16096,0,0,0,0,0,0,0
+Glasgow East,Scotland,Scotland,Borough,66242,36166,56,6816,13949,567,504,0,14024,0,0,0,0,0,0,306
+Glasgow North,Scotland,Scotland,Borough,53862,33473,61,4935,11537,1153,0,3251,12597,0,0,0,0,0,0,0
+Glasgow North East,Scotland,Scotland,Borough,59931,31775,57,4106,13637,637,0,0,13395,0,0,0,0,0,0,0
+Glasgow North West,Scotland,Scotland,Borough,63773,38844,89,7002,13947,1387,0,0,16508,0,0,0,0,0,0,0
+Glasgow South,Scotland,Scotland,Borough,69126,44550,83,8506,16285,1447,0,0,18312,0,0,0,0,0,0,0
+Glasgow South West,Scotland,Scotland,Borough,62991,35378,66,5524,14326,661,481,0,14386,0,0,0,0,0,0,0
+Glenrothes,Scotland,Scotland,County,66378,40399,41,7876,14024,1208,0,0,17291,0,0,0,0,0,0,0
+Gloucester,South West,England,Borough,82965,54071,76,27208,21688,2716,1495,754,0,0,0,0,0,0,0,210
+Gordon,Scotland,Scotland,County,78531,53685,55,21861,6340,6230,0,0,19254,0,0,0,0,0,0,0
+Gosport,South East,England,Borough,74152,49481,28,30647,13436,2328,1790,1024,0,0,0,0,0,0,0,256
+Gower,Wales,Wales,County,62163,45576,53,19458,22727,931,642,0,0,1669,0,0,0,0,0,149
+Grantham and Stamford,East Midlands,England,County,81740,56593,106,35090,14996,3120,1745,782,0,0,0,0,0,0,0,860
+Gravesham,South East,England,County,72954,48997,109,27237,17890,1210,1742,723,0,0,0,0,0,0,0,195
+Great Grimsby,Yorkshire and The Humber,England,Borough,61743,35521,60,14980,17545,954,1648,0,0,0,0,0,0,0,0,394
+Great Yarmouth,East,England,County,71408,44146,203,23901,15928,987,2767,563,0,0,0,0,0,0,0,0
+Greenwich and Woolwich,London,England,Borough,77190,53106,200,13501,34215,3785,0,1605,0,0,0,0,0,0,0,0
+Guildford,South East,England,County,75291,55509,147,30295,10545,13255,0,1152,0,0,0,0,0,0,0,262
+Hackney North and Stoke Newington,London,England,Borough,85058,56298,187,7126,42265,3817,0,2606,0,0,0,0,0,0,0,484
+Hackney South and Shoreditch,London,England,Borough,83099,55354,215,6043,43974,3168,0,1522,0,0,0,0,0,0,0,647
+Halesowen and Rowley Regis,West Midlands,England,Borough,68856,44379,90,23012,17759,859,2126,440,0,0,0,0,0,0,0,183
+Halifax,Yorkshire and The Humber,England,Borough,71224,48276,99,20131,25507,1070,1568,0,0,0,0,0,0,0,0,0
+Haltemprice and Howden,Yorkshire and The Humber,England,County,71519,51440,159,31355,15950,2482,0,711,0,0,0,0,0,0,0,942
+Halton,North West,England,County,73457,49518,85,10710,36115,896,1488,0,0,0,0,0,0,0,0,309
+Hammersmith,London,England,Borough,72803,52252,131,14724,33375,2802,507,800,0,0,0,0,0,0,0,44
+Hampstead and Kilburn,London,England,Borough,82957,58407,165,18904,34464,4100,0,742,0,0,0,0,0,0,0,197
+Harborough,East Midlands,England,County,78810,57598,118,30135,17706,7286,1361,1110,0,0,0,0,0,0,0,0
+Harlow,East,England,County,67699,44846,75,24230,17199,970,1787,660,0,0,0,0,0,0,0,0
+Harrogate and Knaresborough,Yorkshire and The Humber,England,County,77280,56740,139,31477,11395,13309,0,0,0,0,0,0,0,0,0,559
+Harrow East,London,England,Borough,71755,50845,142,25129,23372,1573,0,771,0,0,0,0,0,0,0,0
+Harrow West,London,England,Borough,69797,50355,128,17326,30640,1267,470,652,0,0,0,0,0,0,0,0
+Hartlepool,North East,England,Borough,70718,41835,86,14319,21969,746,4801,0,0,0,0,0,0,0,0,0
+Harwich and North Essex,East,England,County,71294,51141,83,29921,15565,2787,1685,1042,0,0,0,0,0,0,0,141
+Hastings and Rye,South East,England,County,78319,54766,97,25668,25322,1885,1479,0,0,0,0,0,0,0,0,412
+Havant,South East,England,Borough,72470,46314,76,27676,11720,2801,2011,1122,0,0,0,0,0,0,0,984
+Hayes and Harlington,London,England,Borough,73268,47802,118,13681,31796,601,1153,571,0,0,0,0,0,0,0,0
+Hazel Grove,North West,England,County,63166,44132,114,20047,9036,14533,0,516,0,0,0,0,0,0,0,0
+Hemel Hempstead,East,England,County,74415,52282,151,28735,19290,3233,0,1024,0,0,0,0,0,0,0,0
+Hemsworth,Yorkshire and The Humber,England,County,71870,45944,83,15566,25740,912,2591,0,0,0,0,0,0,0,0,1135
+Hendon,London,England,Borough,76522,52215,115,25078,24006,1985,568,578,0,0,0,0,0,0,0,0
+Henley,South East,England,County,74997,57099,119,33749,11455,8485,1154,1864,0,0,0,0,0,0,0,392
+Hereford and South Herefordshire,West Midlands,England,County,71088,50484,71,27004,11991,3556,1153,1220,0,0,0,0,0,0,0,5560
+Hertford and Stortford,East,England,County,82339,59992,230,36184,17149,4845,0,1814,0,0,0,0,0,0,0,0
+Hertsmere,East,England,County,73561,52253,136,31928,14977,2794,1564,990,0,0,0,0,0,0,0,0
+Hexham,North East,England,County,61053,46224,79,24996,15760,3285,930,1253,0,0,0,0,0,0,0,0
+Heywood and Middleton,North West,England,County,79901,49865,97,18961,26578,1087,3239,0,0,0,0,0,0,0,0,0
+High Peak,East Midlands,England,County,73248,53853,160,24431,26753,2669,0,0,0,0,0,0,0,0,0,0
+Hitchin and Harpenden,East,England,County,75916,58783,138,31189,19158,6236,0,1329,0,0,0,0,0,0,0,871
+Holborn and St Pancras,London,England,Borough,88088,58997,178,10834,41343,4020,727,1980,0,0,0,0,0,0,0,93
+Hornchurch and Upminster,London,England,Borough,80802,56045,110,33750,16027,1371,3502,1077,0,0,0,0,0,0,0,318
+Hornsey and Wood Green,London,England,Borough,79946,62293,158,9246,40738,10000,429,1181,0,0,0,0,0,0,0,699
+Horsham,South East,England,County,82772,61987,106,36906,13422,7644,1533,1844,0,0,0,0,0,0,0,638
+Houghton and Sunderland South,North East,England,Borough,68123,41480,77,12324,24665,908,2379,725,0,0,0,0,0,0,0,479
+Hove,South East,England,Borough,74236,57596,120,18185,36942,1311,0,971,0,0,0,0,0,0,0,187
+Huddersfield,Yorkshire and The Humber,England,Borough,67037,43834,116,14465,26470,1155,0,1395,0,0,0,0,0,0,0,349
+Huntingdon,East,England,County,84273,59720,136,32915,18440,5090,2180,1095,0,0,0,0,0,0,0,0
+Hyndburn,North West,England,Borough,71608,45202,105,18305,24120,824,1953,0,0,0,0,0,0,0,0,0
+Ilford North,London,England,Borough,72997,52941,111,20950,30589,1034,0,0,0,0,0,0,0,0,0,368
+Ilford South,London,England,Borough,85358,57657,146,12077,43724,772,477,542,0,0,0,0,0,0,0,65
+Inverclyde,Scotland,Scotland,County,58853,39093,57,8399,14666,978,0,0,15050,0,0,0,0,0,0,0
+"Inverness, Nairn, Badenoch and Strathspey",Scotland,Scotland,County,76844,52801,67,16118,8552,6477,0,0,21042,0,0,0,0,0,0,612
+Ipswich,East,England,Borough,75668,51137,100,23393,24224,1187,1372,840,0,0,0,0,0,0,0,121
+Isle Of Wight,South East,England,County,110683,74479,95,38190,17121,2740,1921,12915,0,0,0,0,0,0,0,1592
+Islington North,London,England,Borough,74831,54928,122,6871,40086,4946,413,2229,0,0,0,0,0,0,0,383
+Islington South and Finsbury,London,England,Borough,69536,48049,147,9925,30188,5809,929,1198,0,0,0,0,0,0,0,0
+Islwyn,Wales,Wales,County,56256,36093,78,9826,21238,685,1605,0,0,2739,0,0,0,0,0,0
+Jarrow,North East,England,Borough,64778,43023,77,10757,28020,1163,2338,745,0,0,0,0,0,0,0,0
+Keighley,Yorkshire and The Humber,England,County,71429,51714,91,23817,24056,1226,1291,790,0,0,0,0,0,0,0,534
+Kenilworth and Southam,West Midlands,England,County,66319,51321,99,31207,13131,4921,929,1133,0,0,0,0,0,0,0,0
+Kensington,London,England,Borough,60588,38677,118,16313,16333,4724,0,767,0,0,0,0,0,0,0,540
+Kettering,East Midlands,England,County,71440,49404,120,28616,18054,1618,0,1116,0,0,0,0,0,0,0,0
+Kilmarnock and Loudoun,Scotland,Scotland,County,73327,46509,81,12404,13421,994,0,0,19690,0,0,0,0,0,0,0
+Kingston and Surbiton,London,England,Borough,81588,62178,87,23686,9203,27810,675,536,0,0,0,0,0,0,0,268
+Kingston upon Hull East,Yorkshire and The Humber,England,Borough,65959,36638,60,10959,21355,1258,2573,493,0,0,0,0,0,0,0,0
+Kingston upon Hull North,Yorkshire and The Humber,England,Borough,64665,37122,76,9363,23685,1869,1601,604,0,0,0,0,0,0,0,0
+Kingston upon Hull West and Hessle,Yorkshire and The Humber,England,Borough,60181,34565,48,10317,18342,2210,1399,332,0,0,0,0,0,0,0,1965
+Kingswood,South West,England,Borough,69368,48741,116,26754,19254,1749,0,984,0,0,0,0,0,0,0,0
+Kirkcaldy and Cowdenbeath,Scotland,Scotland,County,72721,46193,57,10762,17016,1118,540,0,16757,0,0,0,0,0,0,0
+Knowsley,North West,England,Borough,81760,55483,68,5137,47351,1189,1285,521,0,0,0,0,0,0,0,0
+Lagan Valley,Northern Ireland,Northern Ireland,County,72380,44926,118,462,0,0,0,0,0,0,26762,1567,3384,7533,4996,222
+Lanark and Hamilton East,Scotland,Scotland,County,77313,50470,57,16178,16084,1214,550,0,16444,0,0,0,0,0,0,0
+Lancaster and Fleetwood,North West,England,County,67154,45989,94,18681,25342,1170,0,796,0,0,0,0,0,0,0,0
+Leeds Central,Yorkshire and The Humber,England,Borough,89537,47673,116,9755,33453,1063,2056,1189,0,0,0,0,0,0,0,157
+Leeds East,Yorkshire and The Humber,England,Borough,65950,41441,89,12676,25428,739,1742,434,0,0,0,0,0,0,0,422
+Leeds North East,Yorkshire and The Humber,England,Borough,70112,52999,103,16445,33436,1952,0,680,0,0,0,0,0,0,0,486
+Leeds North West,Yorkshire and The Humber,England,Borough,68152,46287,97,9097,20416,16192,0,582,0,0,0,0,0,0,0,0
+Leeds West,Yorkshire and The Humber,England,Borough,67955,42229,72,11048,27013,905,1815,1023,0,0,0,0,0,0,0,425
+Leicester East,East Midlands,England,Borough,77788,52424,258,12688,35116,1343,0,1070,0,0,0,0,0,0,0,2207
+Leicester South,East Midlands,England,Borough,75534,50517,182,10896,37157,1287,0,1177,0,0,0,0,0,0,0,0
+Leicester West,East Midlands,England,Borough,64843,37512,122,11763,22823,792,1406,607,0,0,0,0,0,0,0,121
+Leigh,North West,England,County,76202,46874,105,16793,26347,951,2783,0,0,0,0,0,0,0,0,0
+Lewes,South East,England,County,70941,54192,136,26820,6060,21312,0,0,0,0,0,0,0,0,0,0
+"Lewisham, Deptford",London,England,Borough,78468,55112,208,7562,42461,2911,0,1640,0,0,0,0,0,0,0,538
+Lewisham East,London,England,Borough,68124,47201,111,10859,32072,2086,798,803,0,0,0,0,0,0,0,583
+Lewisham West and Penge,London,England,Borough,72899,53196,156,12249,35411,3317,700,1144,0,0,0,0,0,0,0,375
+Leyton and Wanstead,London,England,County,65149,46173,139,9627,32234,2961,0,1351,0,0,0,0,0,0,0,0
+Lichfield,West Midlands,England,County,74430,53524,147,34018,15437,2653,0,1416,0,0,0,0,0,0,0,0
+Lincoln,East Midlands,England,Borough,73111,48718,79,21795,23333,1284,1287,583,0,0,0,0,0,0,0,436
+Linlithgow and East Falkirk,Scotland,Scotland,County,86186,56094,92,16311,17469,1926,0,0,20388,0,0,0,0,0,0,0
+"Liverpool, Riverside",North West,England,Borough,76332,48020,158,4652,40599,1187,0,1582,0,0,0,0,0,0,0,0
+"Liverpool, Walton",North West,England,Borough,62738,42197,103,3624,36175,638,0,523,0,0,0,0,0,0,0,1237
+"Liverpool, Wavertree",North West,England,Borough,62411,43640,119,5251,34717,2858,0,598,0,0,0,0,0,0,0,216
+"Liverpool, West Derby",North West,England,Borough,65164,45163,112,4463,37371,545,0,329,0,0,0,0,0,0,0,2455
+Livingston,Scotland,Scotland,County,81208,52505,84,12799,17158,1512,0,0,21036,0,0,0,0,0,0,0
+Llanelli,Wales,Wales,County,59434,40342,56,9544,21568,548,1331,0,0,7351,0,0,0,0,0,0
+Loughborough,East Midlands,England,County,79607,54148,110,27022,22753,1937,1465,971,0,0,0,0,0,0,0,0
+Louth and Horncastle,East Midlands,England,County,79007,52771,84,33733,14092,1990,2460,0,0,0,0,0,0,0,0,496
+Ludlow,West Midlands,England,County,68034,49970,140,31433,12147,5336,0,1054,0,0,0,0,0,0,0,0
+Luton North,East,England,Borough,66811,46622,120,15401,29765,808,0,648,0,0,0,0,0,0,0,0
+Luton South,East,England,Borough,67188,46133,100,14879,28804,1056,795,439,0,0,0,0,0,0,0,160
+Macclesfield,North West,England,County,75228,54307,137,28595,19987,3350,0,1213,0,0,0,0,0,0,0,1162
+Maidenhead,South East,England,County,76076,58239,108,37718,11261,6540,871,907,0,0,0,0,0,0,0,942
+Maidstone and The Weald,South East,England,County,75334,51717,86,29156,11433,8455,1613,888,0,0,0,0,0,0,0,172
+Makerfield,North West,England,County,74259,46933,104,14703,28245,1322,0,0,0,0,0,0,0,0,0,2663
+Maldon,East,England,County,71470,50202,99,34111,10681,2181,1899,1073,0,0,0,0,0,0,0,257
+Manchester Central,North West,England,Borough,90261,49720,150,7045,38490,1678,1469,846,0,0,0,0,0,0,0,192
+"Manchester, Gorton",North West,England,Borough,75362,45953,145,3355,35085,2597,952,1038,0,0,0,0,0,0,0,2926
+"Manchester, Withington",North West,England,Borough,74654,53602,134,5530,38424,8549,0,865,0,0,0,0,0,0,0,234
+Mansfield,East Midlands,England,County,77811,50157,99,23392,22335,697,2654,0,0,0,0,0,0,0,0,1079
+Meon Valley,South East,England,County,74246,54192,115,35624,9932,5900,1435,1301,0,0,0,0,0,0,0,0
+Meriden,West Midlands,England,County,81443,54643,97,33873,14675,2663,2016,1416,0,0,0,0,0,0,0,0
+Merthyr Tydfil and Rhymney,Wales,Wales,County,55463,33545,71,6073,22407,841,1484,0,0,2740,0,0,0,0,0,0
+Mid Bedfordshire,East,England,County,84161,63138,185,38936,17953,3788,0,1794,0,0,0,0,0,0,0,667
+Mid Derbyshire,East Midlands,England,County,67466,50371,136,29513,17897,1793,0,1168,0,0,0,0,0,0,0,0
+Middlesbrough,North East,England,Borough,61059,35637,57,9531,23404,368,1452,250,0,0,0,0,0,0,0,632
+Middlesbrough South and East Cleveland,North East,England,County,72336,47620,144,23643,22623,1354,0,0,0,0,0,0,0,0,0,0
+Mid Dorset and North Poole,South West,England,County,65050,48254,145,28585,6423,13246,0,0,0,0,0,0,0,0,0,0
+Midlothian,Scotland,Scotland,County,68328,45273,71,11521,16458,1721,0,0,15573,0,0,0,0,0,0,0
+Mid Norfolk,East,England,County,80027,55668,96,32828,16742,2848,2092,1158,0,0,0,0,0,0,0,0
+Mid Sussex,South East,England,County,84170,61632,113,35082,15409,7855,1251,1571,0,0,0,0,0,0,0,464
+Mid Ulster,Northern Ireland,Northern Ireland,County,68485,46694,278,0,0,0,0,0,0,0,12565,25455,4563,3017,1094,0
+Mid Worcestershire,West Midlands,England,County,76057,55089,102,35967,12641,3450,1660,1371,0,0,0,0,0,0,0,0
+Milton Keynes North,South East,England,County,89207,63924,115,30367,28392,2499,1390,1107,0,0,0,0,0,0,0,169
+Milton Keynes South,South East,England,Borough,92417,64546,122,30652,28987,1895,1833,1179,0,0,0,0,0,0,0,0
+Mitcham and Morden,London,England,Borough,68705,48118,126,11664,33039,1494,1054,644,0,0,0,0,0,0,0,223
+Mole Valley,South East,England,County,74545,56726,140,35092,7864,10955,1352,1463,0,0,0,0,0,0,0,0
+Monmouth,Wales,Wales,County,64909,49734,64,26411,18205,2064,762,954,0,1338,0,0,0,0,0,0
+Montgomeryshire,Wales,Wales,County,50755,34891,75,18075,5542,8790,0,524,0,1960,0,0,0,0,0,0
+Moray,Scotland,Scotland,County,70649,47605,62,22637,5208,1078,0,0,18478,0,0,0,0,0,0,204
+Morecambe and Lunesdale,North West,England,County,66818,45657,72,21773,20374,1699,1333,478,0,0,0,0,0,0,0,0
+Morley and Outwood,Yorkshire and The Humber,England,County,76495,52357,198,26550,24446,1361,0,0,0,0,0,0,0,0,0,0
+Motherwell and Wishaw,Scotland,Scotland,Borough,68215,41926,58,8490,15832,920,534,0,16150,0,0,0,0,0,0,0
+Na h-Eileanan An Iar,Scotland,Scotland,County,21301,14818,35,2441,5006,250,0,0,6013,0,0,0,0,0,0,1108
+Neath,Wales,Wales,County,55862,38285,83,9082,21713,732,1419,0,0,5339,0,0,0,0,0,0
+Newark,East Midlands,England,County,75510,55042,137,34493,16344,2786,1419,0,0,0,0,0,0,0,0,0
+Newbury,South East,England,County,82924,60849,144,37399,8596,13019,0,1531,0,0,0,0,0,0,0,304
+Newcastle-Under-Lyme,West Midlands,England,Borough,65596,43842,172,21094,21124,1624,0,0,0,0,0,0,0,0,0,0
+Newcastle Upon Tyne Central,North East,England,Borough,55368,37094,79,9134,24071,1812,1482,595,0,0,0,0,0,0,0,0
+Newcastle Upon Tyne East,North East,England,Borough,61989,41637,84,8866,28127,2574,1315,755,0,0,0,0,0,0,0,0
+Newcastle Upon Tyne North,North East,England,Borough,66073,48288,83,16380,26729,2533,1780,513,0,0,0,0,0,0,0,353
+New Forest East,South East,England,County,72602,51366,127,32162,10167,7786,0,1251,0,0,0,0,0,0,0,0
+New Forest West,South East,England,County,68786,49627,98,33170,9739,4781,0,1454,0,0,0,0,0,0,0,483
+Newport East,Wales,Wales,County,57233,36820,68,12801,20804,966,1180,0,0,881,0,0,0,0,0,188
+Newport West,Wales,Wales,County,64399,43438,80,17065,22723,976,1100,497,0,1077,0,0,0,0,0,0
+Newry and Armagh,Northern Ireland,Northern Ireland,County,78266,53579,321,0,0,0,0,0,0,0,13177,25666,9055,4425,1256,0
+Newton Abbot,South West,England,County,71714,51637,131,28635,11475,10601,0,926,0,0,0,0,0,0,0,0
+"Normanton, Pontefract and Castleford",Yorkshire and The Humber,England,County,81641,49191,83,14769,29268,693,3030,0,0,0,0,0,0,0,0,1431
+Northampton North,East Midlands,England,Borough,58861,40378,63,19065,18258,1015,1404,636,0,0,0,0,0,0,0,0
+Northampton South,East Midlands,England,Borough,61766,41034,71,19231,18072,1405,1630,696,0,0,0,0,0,0,0,0
+North Antrim,Northern Ireland,Northern Ireland,County,75657,48460,112,0,0,0,0,0,0,0,28521,7878,2574,3482,2723,3282
+North Ayrshire and Arran,Scotland,Scotland,County,73176,47433,82,14818,13040,1124,0,0,18451,0,0,0,0,0,0,0
+North Cornwall,South West,England,County,68844,50944,103,25835,6151,18635,0,0,0,0,0,0,0,0,0,323
+North Devon,South West,England,County,75801,55705,66,25517,7063,21185,1187,753,0,0,0,0,0,0,0,0
+North Dorset,South West,England,County,76324,55724,167,36169,10392,7556,0,1607,0,0,0,0,0,0,0,0
+North Down,Northern Ireland,Northern Ireland,County,64334,39185,83,941,0,0,0,2549,0,0,14940,531,400,0,3639,16185
+North Durham,North East,England,County,66970,43284,88,12978,25917,1981,2408,0,0,0,0,0,0,0,0,0
+North East Bedfordshire,East,England,County,87505,64220,134,39139,18277,3693,1896,1215,0,0,0,0,0,0,0,0
+North East Cambridgeshire,East,England,County,84414,53284,81,34340,13070,2383,2174,1024,0,0,0,0,0,0,0,293
+North East Derbyshire,East Midlands,England,County,72097,50380,78,24783,21923,1390,1565,719,0,0,0,0,0,0,0,0
+North East Fife,Scotland,Scotland,County,58685,41822,26,10088,4026,13741,0,0,13743,0,0,0,0,0,0,224
+North East Hampshire,South East,England,County,74576,57627,121,37754,9982,6987,1061,1476,0,0,0,0,0,0,0,367
+North East Hertfordshire,East,England,County,75965,55580,168,32587,15752,4276,0,2965,0,0,0,0,0,0,0,0
+North East Somerset,South West,England,County,71355,54043,104,28992,18757,4461,0,1245,0,0,0,0,0,0,0,588
+North Herefordshire,West Midlands,England,County,67751,50177,116,31097,9495,5874,0,2771,0,0,0,0,0,0,0,940
+North Norfolk,East,England,County,69271,52188,91,21748,5180,25260,0,0,0,0,0,0,0,0,0,0
+North Shropshire,West Midlands,England,County,80535,55599,146,33642,17287,2948,0,1722,0,0,0,0,0,0,0,0
+North Somerset,South West,England,County,80529,61994,120,33605,16502,5982,0,1976,0,0,0,0,0,0,0,3929
+North Swindon,South West,England,County,80168,54911,104,29431,21096,1962,1564,858,0,0,0,0,0,0,0,0
+North Thanet,South East,England,County,72651,48325,82,27163,16425,1586,2198,825,0,0,0,0,0,0,0,128
+North Tyneside,North East,England,Borough,78914,51892,92,14172,33456,1494,2101,669,0,0,0,0,0,0,0,0
+North Warwickshire,West Midlands,England,County,72277,47178,137,26860,18350,1028,0,940,0,0,0,0,0,0,0,0
+North West Cambridgeshire,East,England,County,93221,63991,132,37529,19521,3168,2518,1255,0,0,0,0,0,0,0,0
+North West Durham,North East,England,County,71918,47902,71,16516,25308,3398,2150,530,0,0,0,0,0,0,0,0
+North West Hampshire,South East,England,County,81430,58772,108,36471,13792,5708,1467,1334,0,0,0,0,0,0,0,0
+North West Leicestershire,East Midlands,England,County,75362,53541,153,31153,17867,3420,0,1101,0,0,0,0,0,0,0,0
+North West Norfolk,East,England,County,72062,48811,80,29408,15620,1393,1539,851,0,0,0,0,0,0,0,0
+North Wiltshire,South West,England,County,71408,53706,91,32398,9399,9521,871,1141,0,0,0,0,0,0,0,376
+Norwich North,East,England,Borough,66924,45895,82,21900,21393,1480,0,782,0,0,0,0,0,0,0,340
+Norwich South,East,England,Borough,74182,51359,142,15715,31311,2841,0,1492,0,0,0,0,0,0,0,0
+Nottingham East,East Midlands,England,Borough,61760,39327,114,8512,28102,1003,817,698,0,0,0,0,0,0,0,195
+Nottingham North,East Midlands,England,Borough,66886,38319,71,11907,23067,674,2133,538,0,0,0,0,0,0,0,0
+Nottingham South,East Midlands,England,Borough,71182,48129,137,14851,30013,1564,1103,598,0,0,0,0,0,0,0,0
+Nuneaton,West Midlands,England,County,69201,46067,71,23755,19016,914,1619,763,0,0,0,0,0,0,0,0
+Ochil and South Perthshire,Scotland,Scotland,County,76767,54168,77,22469,10847,1742,0,0,19110,0,0,0,0,0,0,0
+Ogmore,Wales,Wales,County,57125,37204,72,9354,23225,594,1235,0,0,2796,0,0,0,0,0,0
+Old Bexley and Sidcup,London,England,Borough,66005,48042,99,29545,14079,1572,1619,820,0,0,0,0,0,0,0,407
+Oldham East and Saddleworth,North West,England,County,72184,47037,104,17447,25629,1683,2278,0,0,0,0,0,0,0,0,0
+Oldham West and Royton,North West,England,Borough,72401,45788,99,12648,29846,956,1899,439,0,0,0,0,0,0,0,0
+Orkney and Shetland,Scotland,Scotland,County,34164,23277,43,2024,2664,11312,283,0,6749,0,0,0,0,0,0,245
+Orpington,London,England,Borough,67902,50461,104,31762,12301,3315,2023,1060,0,0,0,0,0,0,0,0
+Oxford East,South East,England,Borough,78350,53896,90,11834,35118,4904,0,1785,0,0,0,0,0,0,0,255
+Oxford West and Abingdon,South East,England,County,75574,60020,114,25440,7573,26256,751,0,0,0,0,0,0,0,0,0
+Paisley and Renfrewshire North,Scotland,Scotland,County,67436,46615,51,12842,14842,1476,0,0,17455,0,0,0,0,0,0,0
+Paisley and Renfrewshire South,Scotland,Scotland,County,61344,41712,59,8122,14423,1327,0,0,16964,0,0,0,0,0,0,876
+Pendle,North West,England,Borough,64962,44854,82,21986,20707,941,0,502,0,0,0,0,0,0,0,718
+Penistone and Stocksbridge,Yorkshire and The Humber,England,County,71293,49787,123,21485,22807,2042,3453,0,0,0,0,0,0,0,0,0
+Penrith and The Border,North West,England,County,65139,46470,78,28078,12168,3641,1142,1029,0,0,0,0,0,0,0,412
+Perth and North Perthshire,Scotland,Scotland,County,71762,51525,99,21783,5349,2589,0,0,21804,0,0,0,0,0,0,0
+Peterborough,East,England,Borough,71522,47738,145,22343,22950,1597,0,848,0,0,0,0,0,0,0,0
+"Plymouth, Moor View",South West,England,Borough,69342,45417,70,23567,18548,917,1849,536,0,0,0,0,0,0,0,0
+"Plymouth, Sutton and Devonport",South West,England,Borough,76584,51208,83,20476,27283,1244,1364,604,0,0,0,0,0,0,0,237
+Pontypridd,Wales,Wales,County,60564,39894,106,10655,22103,1963,1071,0,0,4102,0,0,0,0,0,0
+Poole,South West,England,Borough,73796,49850,126,28888,14679,4433,0,1299,0,0,0,0,0,0,0,551
+Poplar and Limehouse,London,England,Borough,87331,58814,277,11846,39558,3959,849,989,0,0,0,0,0,0,0,1613
+Portsmouth North,South East,England,Borough,71374,47210,77,25860,15895,2608,1926,791,0,0,0,0,0,0,0,130
+Portsmouth South,South East,England,Borough,69785,44566,94,16736,18290,7699,1129,712,0,0,0,0,0,0,0,0
+Preseli Pembrokeshire,Wales,Wales,County,58554,42197,59,18302,17988,1106,850,0,0,2711,0,0,0,0,0,1240
+Preston,North West,England,Borough,57791,35597,63,8487,24210,1204,1348,348,0,0,0,0,0,0,0,0
+Pudsey,Yorkshire and The Humber,England,Borough,72622,53959,118,25550,25219,1761,0,0,0,0,0,0,0,0,0,1429
+Putney,London,England,Borough,65031,46894,112,20679,19125,5448,477,1107,0,0,0,0,0,0,0,58
+Rayleigh and Wickford,East,England,County,78556,55323,96,36914,13464,1557,2326,1062,0,0,0,0,0,0,0,0
+Reading East,South East,England,Borough,75537,55238,132,23344,27093,3378,0,1093,0,0,0,0,0,0,0,330
+Reading West,South East,England,County,74523,51766,147,25311,22435,3041,0,979,0,0,0,0,0,0,0,0
+Redcar,North East,England,Borough,66836,42560,66,14138,23623,2849,1950,0,0,0,0,0,0,0,0,0
+Redditch,West Midlands,England,County,64413,45203,95,23652,16289,1173,1371,380,0,0,0,0,0,0,0,2338
+Reigate,South East,England,Borough,74628,53823,170,30896,13282,5889,1542,2214,0,0,0,0,0,0,0,0
+Rhondda,Wales,Wales,County,50514,32936,60,3333,21096,277,880,0,0,7350,0,0,0,0,0,0
+Ribble Valley,North West,England,County,77968,55200,163,31919,18720,3247,0,1314,0,0,0,0,0,0,0,0
+Richmond Park,London,England,Borough,80025,63330,131,28588,5773,28543,426,0,0,0,0,0,0,0,0,0
+Richmond (Yorks),Yorkshire and The Humber,England,County,80905,57013,135,36458,13350,3360,0,1739,0,0,0,0,0,0,0,2106
+Rochdale,North West,England,County,78064,50044,103,14216,29035,4027,1641,0,0,0,0,0,0,0,0,1125
+Rochester and Strood,South East,England,County,82702,53769,70,29232,19382,1189,2893,781,0,0,0,0,0,0,0,292
+Rochford and Southend East,East,England,County,73501,47248,75,23013,17465,1265,1777,804,0,0,0,0,0,0,0,2924
+Romford,London,England,Borough,73493,49944,126,29671,15893,1215,2350,815,0,0,0,0,0,0,0,0
+Romsey and Southampton North,South East,England,County,67186,50128,117,28668,9614,10622,0,953,0,0,0,0,0,0,0,271
+Rossendale and Darwen,North West,England,Borough,72486,50156,134,25499,22283,1550,0,824,0,0,0,0,0,0,0,0
+"Ross, Skye and Lochaber",Scotland,Scotland,County,53638,38454,49,9561,4695,8042,0,0,15480,0,0,0,0,0,0,676
+Rotherham,Yorkshire and The Humber,England,Borough,63237,37923,83,10017,21404,1754,3316,0,0,0,0,0,0,0,0,1432
+Rother Valley,Yorkshire and The Humber,England,County,75230,49488,107,19939,23821,1155,3704,869,0,0,0,0,0,0,0,0
+Rugby,West Midlands,England,County,72175,51336,143,27872,19660,2851,0,953,0,0,0,0,0,0,0,0
+"Ruislip, Northwood and Pinner",London,England,Borough,73427,53382,146,30555,16575,3813,1171,1268,0,0,0,0,0,0,0,0
+Runnymede and Weybridge,South East,England,County,74888,51609,140,31436,13386,3765,1675,1347,0,0,0,0,0,0,0,0
+Rushcliffe,East Midlands,England,County,74738,58311,157,30223,22213,2759,1490,1626,0,0,0,0,0,0,0,0
+Rutherglen and Hamilton West,Scotland,Scotland,Borough,80098,50872,57,9941,19101,2158,465,0,18836,0,0,0,0,0,0,371
+Rutland and Melton,East Midlands,England,County,78463,57569,141,36169,13065,4711,1869,1755,0,0,0,0,0,0,0,0
+Saffron Walden,East,England,County,83072,60911,197,37629,12663,8528,2091,0,0,0,0,0,0,0,0,0
+Salford and Eccles,North West,England,Borough,78080,47619,111,12036,31168,1286,2320,809,0,0,0,0,0,0,0,0
+Salisbury,South West,England,County,72892,53311,88,30952,13619,5982,1191,1152,0,0,0,0,0,0,0,415
+Scarborough and Whitby,Yorkshire and The Humber,England,County,73599,50449,74,24401,20966,1354,1682,915,0,0,0,0,0,0,0,1131
+Scunthorpe,Yorkshire and The Humber,England,County,61578,40202,72,17485,20916,554,1247,0,0,0,0,0,0,0,0,0
+Sedgefield,North East,England,County,63889,41591,62,16143,22202,797,1763,686,0,0,0,0,0,0,0,0
+Sefton Central,North West,England,County,69019,52079,128,17212,32830,1381,0,656,0,0,0,0,0,0,0,0
+Selby and Ainsty,Yorkshire and The Humber,England,County,75918,56076,145,32921,19149,2293,1713,0,0,0,0,0,0,0,0,0
+Sevenoaks,South East,England,County,71565,51218,146,32644,10727,4280,1894,1673,0,0,0,0,0,0,0,0
+"Sheffield, Brightside and Hillsborough",Yorkshire and The Humber,England,Borough,70344,41870,70,9050,28193,1061,2645,737,0,0,0,0,0,0,0,184
+Sheffield Central,Yorkshire and The Humber,England,Borough,77560,47877,137,6215,33963,2465,1060,3848,0,0,0,0,0,0,0,326
+"Sheffield, Hallam",Yorkshire and The Humber,England,County,73455,57020,89,13561,21881,19756,929,823,0,0,0,0,0,0,0,70
+"Sheffield, Heeley",Yorkshire and The Humber,England,Borough,68040,44226,79,12696,26524,2022,1977,943,0,0,0,0,0,0,0,64
+Sheffield South East,Yorkshire and The Humber,England,Borough,68945,43596,90,13722,25520,1432,2820,0,0,0,0,0,0,0,0,102
+Sherwood,East Midlands,England,County,76196,53364,98,27492,22294,1113,1801,664,0,0,0,0,0,0,0,0
+Shipley,Yorkshire and The Humber,England,County,73133,53395,138,27417,22736,2202,0,0,0,0,0,0,0,0,0,1040
+Shrewsbury and Atcham,West Midlands,England,County,79043,58203,109,29073,22446,4254,1363,1067,0,0,0,0,0,0,0,0
+Sittingbourne and Sheppey,South East,England,County,81717,51389,77,30911,15700,1392,0,558,0,0,0,0,0,0,0,2828
+Skipton and Ripon,Yorkshire and The Humber,England,County,78104,58138,186,36425,16440,0,0,3734,0,0,0,0,0,0,0,1539
+Sleaford and North Hykeham,East Midlands,England,County,90929,65797,107,42245,17008,2722,1954,968,0,0,0,0,0,0,0,900
+Slough,South East,England,Borough,83272,54295,168,17172,34170,1308,1228,0,0,0,0,0,0,0,0,417
+Solihull,West Midlands,England,Borough,77789,56748,120,32985,12414,8901,1291,1157,0,0,0,0,0,0,0,0
+Somerton and Frome,South West,England,County,84437,63892,104,36231,10998,13325,0,2347,0,0,0,0,0,0,0,991
+"Southampton, Itchen",South East,England,Borough,71722,46783,92,21773,21742,1421,1122,725,0,0,0,0,0,0,0,0
+"Southampton, Test",South East,England,Borough,70199,46903,119,16006,27509,1892,0,0,0,0,0,0,0,0,0,1496
+South Antrim,Northern Ireland,Northern Ireland,County,68244,43170,122,0,0,0,0,0,0,0,16508,7797,2362,13300,3203,0
+South Basildon and East Thurrock,East,England,County,73537,47120,75,26811,15321,732,3193,680,0,0,0,0,0,0,0,383
+South Cambridgeshire,East,England,County,85257,64924,166,33631,17679,12102,0,1512,0,0,0,0,0,0,0,0
+South Derbyshire,East Midlands,England,County,76380,52631,120,30907,18937,1870,0,917,0,0,0,0,0,0,0,0
+South Dorset,South West,England,County,75553,51906,103,29135,17440,3053,0,2278,0,0,0,0,0,0,0,0
+South Down,Northern Ireland,Northern Ireland,County,75685,50893,189,0,0,0,0,0,0,0,8867,20328,17882,2002,1814,0
+South East Cambridgeshire,East,England,County,86121,63002,226,33601,17443,11958,0,0,0,0,0,0,0,0,0,0
+South East Cornwall,South West,England,County,71880,53224,133,29493,12050,10346,0,1335,0,0,0,0,0,0,0,0
+Southend West,East,England,Borough,67677,47191,101,26046,16046,2110,1666,831,0,0,0,0,0,0,0,492
+South Holland and The Deepings,East Midlands,England,County,76374,50315,84,35179,10282,1433,2185,894,0,0,0,0,0,0,0,342
+South Leicestershire,East Midlands,England,County,78985,56689,112,34795,16164,2403,2235,1092,0,0,0,0,0,0,0,0
+South Norfolk,East,England,County,83055,61111,182,35580,18902,5074,0,1555,0,0,0,0,0,0,0,0
+South Northamptonshire,East Midlands,England,County,85759,64998,125,40599,17759,3623,1363,1357,0,0,0,0,0,0,0,297
+Southport,North West,England,Borough,69400,47956,63,18541,15627,12661,1127,0,0,0,0,0,0,0,0,0
+South Ribble,North West,England,County,75752,54834,92,28980,21559,2073,1387,494,0,0,0,0,0,0,0,341
+South Shields,North East,England,Borough,63433,40772,77,10570,25078,681,3006,1437,0,0,0,0,0,0,0,0
+South Staffordshire,West Midlands,England,County,73441,51109,187,35656,12923,1348,0,1182,0,0,0,0,0,0,0,0
+South Suffolk,East,England,County,75485,54235,116,32829,15080,3154,1449,1723,0,0,0,0,0,0,0,0
+South Swindon,South West,England,County,72372,51271,87,24809,22345,2079,1291,747,0,0,0,0,0,0,0,0
+South Thanet,South East,England,County,72334,49753,92,25262,18875,1514,2997,809,0,0,0,0,0,0,0,296
+South West Bedfordshire,East,England,County,79658,55635,163,32961,18793,2630,0,950,0,0,0,0,0,0,0,301
+South West Devon,South West,England,County,71260,52857,97,31634,15818,2732,1540,1133,0,0,0,0,0,0,0,0
+South West Hertfordshire,East,England,County,81087,60653,138,35128,15578,7078,1293,1576,0,0,0,0,0,0,0,0
+South West Norfolk,East,England,County,77874,52416,154,32894,14582,2365,2575,0,0,0,0,0,0,0,0,0
+South West Surrey,South East,England,County,78042,60432,151,33683,7606,5967,1083,0,0,0,0,0,0,0,0,12093
+South West Wiltshire,South West,England,County,76898,54751,146,32841,14515,5360,0,1445,0,0,0,0,0,0,0,590
+Spelthorne,South East,England,Borough,72641,50115,106,28692,15267,2755,2296,1105,0,0,0,0,0,0,0,0
+Stafford,West Midlands,England,County,68445,51924,122,28424,20695,1540,0,1265,0,0,0,0,0,0,0,0
+Staffordshire Moorlands,West Midlands,England,County,63260,44655,84,25963,15133,1494,0,541,0,0,0,0,0,0,0,1524
+St Albans,East,England,County,72811,56998,142,24571,13137,18462,0,828,0,0,0,0,0,0,0,0
+Stalybridge and Hyde,North West,England,County,71409,42457,127,16193,24277,996,0,991,0,0,0,0,0,0,0,0
+St Austell and Newquay,South West,England,County,78609,54212,231,26856,15714,11642,0,0,0,0,0,0,0,0,0,0
+Stevenage,East,England,County,70765,49327,141,24798,21412,2032,0,1085,0,0,0,0,0,0,0,0
+St Helens North,North West,England,Borough,76088,50222,90,13606,32012,1287,2097,1220,0,0,0,0,0,0,0,0
+St Helens South and Whiston,North West,England,Borough,79036,52886,79,11536,35879,2101,1953,1417,0,0,0,0,0,0,0,0
+Stirling,Scotland,Scotland,County,66415,49356,72,18291,10902,1683,0,0,18143,0,0,0,0,0,0,337
+St Ives,South West,England,County,67145,51226,109,22120,7298,21808,0,0,0,0,0,0,0,0,0,0
+Stockport,North West,England,Borough,64236,41544,97,11805,26282,1778,1088,591,0,0,0,0,0,0,0,0
+Stockton North,North East,England,Borough,66285,42731,74,15589,24304,646,1834,358,0,0,0,0,0,0,0,0
+Stockton South,North East,England,Borough,75625,53824,82,25214,26102,951,1186,371,0,0,0,0,0,0,0,0
+Stoke-On-Trent Central,West Midlands,England,Borough,56915,33145,64,13186,17083,680,1608,378,0,0,0,0,0,0,0,210
+Stoke-On-Trent North,West Midlands,England,Borough,71558,41786,123,18913,21272,916,0,685,0,0,0,0,0,0,0,0
+Stoke-On-Trent South,West Midlands,England,Borough,66057,41690,101,20451,19788,808,0,643,0,0,0,0,0,0,0,0
+Stone,West Midlands,England,County,67824,50032,99,31614,14119,2222,1370,707,0,0,0,0,0,0,0,0
+Stourbridge,West Midlands,England,Borough,70215,47135,72,25706,18052,1083,1801,493,0,0,0,0,0,0,0,0
+Strangford,Northern Ireland,Northern Ireland,County,64327,38749,77,507,0,0,0,607,0,0,24036,1083,2404,4419,5693,0
+Stratford-On-Avon,West Midlands,England,County,72572,53532,152,33657,11699,6357,0,1345,0,0,0,0,0,0,0,474
+Streatham,London,England,Borough,78649,55795,161,11927,38212,3611,349,1696,0,0,0,0,0,0,0,0
+Stretford and Urmston,North West,England,Borough,71833,50191,95,13814,33519,1001,1094,641,0,0,0,0,0,0,0,122
+Stroud,South West,England,County,82839,63816,97,29307,29994,2053,1039,1423,0,0,0,0,0,0,0,0
+Suffolk Coastal,East,England,County,79366,58074,236,33713,17701,4048,0,1802,0,0,0,0,0,0,0,810
+Sunderland Central,North East,England,Borough,72728,45111,76,15059,25056,1777,2209,705,0,0,0,0,0,0,0,305
+Surrey Heath,South East,England,County,80764,57822,226,37118,12175,6271,0,2258,0,0,0,0,0,0,0,0
+Sutton and Cheam,London,England,Borough,70404,51970,123,26567,10663,13869,0,871,0,0,0,0,0,0,0,0
+Sutton Coldfield,West Midlands,England,Borough,75652,52858,141,32224,16885,2302,0,965,0,0,0,0,0,0,0,482
+Swansea East,Wales,Wales,Borough,58521,35159,56,9139,22307,625,1040,359,0,1689,0,0,0,0,0,0
+Swansea West,Wales,Wales,Borough,56892,37282,83,11680,22278,1269,0,434,0,1529,0,0,0,0,0,92
+Tamworth,West Midlands,England,County,71308,47110,180,28748,16401,1961,0,0,0,0,0,0,0,0,0,0
+Tatton,North West,England,County,67874,49116,104,28764,13977,4431,0,1024,0,0,0,0,0,0,0,920
+Taunton Deane,South West,England,County,85457,63053,99,33333,9689,17446,1434,1151,0,0,0,0,0,0,0,0
+Telford,West Midlands,England,Borough,68106,44686,146,21777,21057,954,0,898,0,0,0,0,0,0,0,0
+Tewkesbury,South West,England,County,81440,59084,115,35448,12874,7981,1205,1576,0,0,0,0,0,0,0,0
+The Cotswolds,South West,England,County,80449,59702,127,36201,10702,9748,1197,1747,0,0,0,0,0,0,0,107
+The Wrekin,West Midlands,England,County,68604,49523,115,27451,17887,1345,1656,804,0,0,0,0,0,0,0,380
+Thirsk and Malton,Yorkshire and The Humber,England,County,78670,55929,94,33572,14571,3859,1532,1100,0,0,0,0,0,0,0,1295
+Thornbury and Yate,South West,England,County,67892,50690,101,28008,6112,15937,0,633,0,0,0,0,0,0,0,0
+Thurrock,East,England,Borough,78154,50325,97,19880,19535,798,10112,0,0,0,0,0,0,0,0,0
+Tiverton and Honiton,South West,England,County,80731,57815,172,35471,15670,4639,0,2035,0,0,0,0,0,0,0,0
+Tonbridge and Malling,South East,England,County,77417,56907,108,36218,12710,3787,1857,2335,0,0,0,0,0,0,0,0
+Tooting,London,England,Borough,77971,58171,133,19236,34694,3057,339,845,0,0,0,0,0,0,0,0
+Torbay,South West,England,Borough,75931,51174,75,27141,9310,12858,1213,652,0,0,0,0,0,0,0,0
+Torfaen,Wales,Wales,County,61839,38429,62,11894,22134,852,1490,0,0,2059,0,0,0,0,0,0
+Torridge and West Devon,South West,England,County,80524,59480,144,33612,12926,10526,0,1622,0,0,0,0,0,0,0,794
+Totnes,South West,England,County,68914,50270,82,26972,13495,6466,1240,2097,0,0,0,0,0,0,0,0
+Tottenham,London,England,Borough,72884,49339,147,5665,40249,1687,462,1276,0,0,0,0,0,0,0,0
+Truro and Falmouth,South West,England,County,74683,56647,70,25123,21331,8465,897,831,0,0,0,0,0,0,0,0
+Tunbridge Wells,South East,England,County,74782,54209,99,30856,14391,5355,1464,1441,0,0,0,0,0,0,0,702
+Twickenham,London,England,Borough,83362,66290,143,25207,6114,34969,0,0,0,0,0,0,0,0,0,0
+Tynemouth,North East,England,Borough,77434,56858,106,20729,32395,1724,1257,629,0,0,0,0,0,0,0,124
+Upper Bann,Northern Ireland,Northern Ireland,County,80168,51258,173,0,0,0,0,0,0,0,22317,14325,4397,7900,2319,0
+Uxbridge and South Ruislip,London,England,Borough,69936,46694,84,23716,18682,1835,1577,884,0,0,0,0,0,0,0,0
+Vale Of Clwyd,Wales,Wales,County,56890,38684,91,17044,19423,666,0,0,0,1551,0,0,0,0,0,0
+Vale Of Glamorgan,Wales,Wales,County,73959,53718,63,25501,23311,1020,868,419,0,2295,0,0,0,0,0,304
+Vauxhall,London,England,Borough,82055,55042,164,10277,31576,11326,0,1152,0,0,0,0,0,0,0,711
+Wakefield,Yorkshire and The Humber,England,County,70340,46284,112,20811,22987,943,0,0,0,0,0,0,0,0,0,1543
+Wallasey,North West,England,Borough,67454,48353,77,11232,34552,772,1160,637,0,0,0,0,0,0,0,0
+Walsall North,West Midlands,England,Borough,67308,38118,78,18919,16318,586,2295,0,0,0,0,0,0,0,0,0
+Walsall South,West Midlands,England,Borough,67417,44072,117,16394,25286,587,1805,0,0,0,0,0,0,0,0,0
+Walthamstow,London,England,County,67957,48143,159,6776,38793,1384,0,1190,0,0,0,0,0,0,0,0
+Wansbeck,North East,England,County,62151,42454,57,13903,24338,2015,1483,715,0,0,0,0,0,0,0,0
+Wantage,South East,England,County,85786,63602,156,34459,17079,9234,1284,1546,0,0,0,0,0,0,0,0
+Warley,West Midlands,England,Borough,63739,40206,116,10521,27004,777,1349,555,0,0,0,0,0,0,0,0
+Warrington North,North West,England,Borough,71918,48517,99,17774,27356,1207,1561,619,0,0,0,0,0,0,0,0
+Warrington South,North West,England,Borough,85617,61995,120,27445,29994,3339,0,0,0,0,0,0,0,0,0,1217
+Warwick and Leamington,West Midlands,England,Borough,74237,54055,125,24021,25227,2810,799,1198,0,0,0,0,0,0,0,0
+Washington and Sunderland West,North East,England,Borough,67280,40574,74,11699,24639,961,2761,514,0,0,0,0,0,0,0,0
+Watford,East,England,Borough,86507,58610,113,26731,24639,5335,1184,721,0,0,0,0,0,0,0,0
+Waveney,East,England,County,80763,52674,68,28643,19428,1012,1933,1332,0,0,0,0,0,0,0,326
+Wealden,South East,England,County,81425,60464,113,37027,13399,6281,1798,1959,0,0,0,0,0,0,0,0
+Weaver Vale,North West,England,County,69016,50613,108,22138,26066,1623,0,786,0,0,0,0,0,0,0,0
+Wellingborough,East Midlands,England,County,79254,53240,100,30579,18119,1782,1804,956,0,0,0,0,0,0,0,0
+Wells,South West,England,County,82451,60843,131,30488,7129,22906,0,0,0,0,0,0,0,0,0,320
+Welwyn Hatfield,East,England,County,72888,51669,109,26374,19005,3836,1441,835,0,0,0,0,0,0,0,178
+Wentworth and Dearne,Yorkshire and The Humber,England,County,74890,43947,280,13744,28547,1656,0,0,0,0,0,0,0,0,0,0
+West Aberdeenshire and Kincardine,Scotland,Scotland,County,72477,51625,49,24704,5706,4461,0,0,16754,0,0,0,0,0,0,0
+West Bromwich East,West Midlands,England,Borough,63846,39098,138,14951,22664,625,0,533,0,0,0,0,0,0,0,325
+West Bromwich West,West Midlands,England,Borough,65967,36094,90,14329,18789,333,2320,323,0,0,0,0,0,0,0,0
+West Dorset,South West,England,County,79048,59598,152,33081,10896,13990,0,1631,0,0,0,0,0,0,0,0
+West Dunbartonshire,Scotland,Scotland,County,67602,44083,86,7582,16602,1009,0,0,18890,0,0,0,0,0,0,0
+West Ham,London,England,Borough,92418,60708,161,9837,46591,1836,1134,957,0,0,0,0,0,0,0,353
+West Lancashire,North West,England,County,73257,54389,114,20341,32030,1069,0,680,0,0,0,0,0,0,0,269
+Westminster North,London,England,Borough,63846,43295,192,14422,25934,2253,0,595,0,0,0,0,0,0,0,91
+Westmorland and Lonsdale,North West,England,County,66391,51687,81,22909,4783,23686,0,0,0,0,0,0,0,0,0,309
+Weston-Super-Mare,South West,England,County,82136,56415,97,29982,18438,5175,1932,888,0,0,0,0,0,0,0,0
+West Suffolk,East,England,County,77348,51746,104,31649,14586,2180,2396,935,0,0,0,0,0,0,0,0
+West Tyrone,Northern Ireland,Northern Ireland,County,64009,43486,189,0,0,0,0,427,0,0,11718,22060,5635,2253,1000,393
+West Worcestershire,West Midlands,England,County,74375,56471,112,34703,13375,5307,1481,1605,0,0,0,0,0,0,0,0
+Wigan,North West,England,County,75359,47542,96,13548,29575,916,2750,753,0,0,0,0,0,0,0,0
+Wimbledon,London,England,Borough,66780,51526,127,23946,18324,7472,553,1231,0,0,0,0,0,0,0,0
+Winchester,South East,England,County,72497,57156,100,29729,6007,19730,695,846,0,0,0,0,0,0,0,149
+Windsor,South East,England,County,73595,53921,164,34718,12334,5434,0,1435,0,0,0,0,0,0,0,0
+Wirral South,North West,England,County,57670,45195,84,17548,25871,1322,0,454,0,0,0,0,0,0,0,0
+Wirral West,North West,England,County,55995,43951,83,18501,23866,1155,0,429,0,0,0,0,0,0,0,0
+Witham,East,England,County,69137,49241,159,31670,13024,2715,0,1832,0,0,0,0,0,0,0,0
+Witney,South East,England,County,82727,60927,124,33839,12598,12457,980,1053,0,0,0,0,0,0,0,0
+Woking,South East,England,County,76170,55246,127,29903,13179,9711,1161,1092,0,0,0,0,0,0,0,200
+Wokingham,South East,England,County,79111,59690,199,33806,15008,9512,0,1364,0,0,0,0,0,0,0,0
+Wolverhampton North East,West Midlands,England,Borough,60770,36508,85,14695,19282,570,1479,482,0,0,0,0,0,0,0,0
+Wolverhampton South East,West Midlands,England,Borough,60301,36304,86,12623,21137,448,1675,421,0,0,0,0,0,0,0,0
+Wolverhampton South West,West Midlands,England,Borough,59971,42346,115,18714,20899,784,1012,579,0,0,0,0,0,0,0,358
+Worcester,West Midlands,England,Borough,73893,51423,92,24731,22223,1757,1354,1211,0,0,0,0,0,0,0,147
+Workington,North West,England,County,60265,41676,55,17392,21317,1133,1556,0,0,0,0,0,0,0,0,278
+Worsley and Eccles South,North West,England,County,73689,45642,115,17667,26046,1087,0,842,0,0,0,0,0,0,0,0
+Worthing West,South East,England,Borough,77757,54503,111,30181,18091,2982,1635,1614,0,0,0,0,0,0,0,0
+Wrexham,Wales,Wales,County,49881,35092,68,15321,17153,865,0,0,0,1753,0,0,0,0,0,0
+Wycombe,South East,England,County,77087,53493,144,26766,20188,4147,1210,1182,0,0,0,0,0,0,0,0
+Wyre and Preston North,North West,England,County,72319,52646,126,30684,18438,2551,0,973,0,0,0,0,0,0,0,0
+Wyre Forest,West Midlands,England,County,77758,51129,90,29859,16525,1943,1777,1025,0,0,0,0,0,0,0,0
+Wythenshawe and Sale East,North West,England,Borough,76361,45846,71,13581,28525,1504,1475,576,0,0,0,0,0,0,0,185
+Yeovil,South West,England,County,82916,59404,94,32369,7418,17646,0,1052,0,0,0,0,0,0,0,919
+Ynys Mon,Wales,Wales,County,52921,37367,40,10384,15643,479,624,0,0,10237,0,0,0,0,0,0
+York Central,Yorkshire and The Humber,England,Borough,77315,53088,213,16019,34594,2475,0,0,0,0,0,0,0,0,0,0
+York Outer,Yorkshire and The Humber,England,County,75835,57427,146,29356,21067,5910,0,1094,0,0,0,0,0,0,0,0
